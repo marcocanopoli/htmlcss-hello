@@ -1,0 +1,12 @@
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    background-color:darkviolet;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    line-height: 100vh;   
+    height: 100vh;
+}
